@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on the up coming projects
 - 📫 How to reach me: easytmashabela@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm changing careers, moving from finance to Teach. It's a rocky road but i'll get there. 
+- ⚡ Fun fact: I'm changing careers, moving from finance to Tech. It's a rocky road but i'll get there. 
 
 <!---
 The1Glitch/The1Glitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
